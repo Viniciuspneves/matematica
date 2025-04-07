@@ -13,7 +13,7 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### Etapas concluídas
 
-- Parte 1: Funções Básicas – **concluída**
+- [Parte 1: Funções Básicas](./funcoes/funcoes-basicas/)
 
 ### Em desenvolvimento
 
@@ -27,10 +27,10 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### 1. Funções Básicas
 
-- Constante
-- Identidade
-- Linear
-- Afim
+- [Constante](./funcoes/funcoes-basicas/01-constante.ipynb)
+- [Identidade](./funcoes/funcoes-basicas/02-identidade.ipynb)
+- [Linear](./funcoes/funcoes-basicas/03-linear.ipynb)
+- [Afim](./funcoes/funcoes-basicas/04-afim.ipynb)
 
 ### 2. Funções Polinomiais
 
@@ -71,7 +71,7 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ## Tecnologias Utilizadas
 
-- Python 3.x  
+- Python 3.13.1  
 - Jupyter Notebook  
 - NumPy  
 - Matplotlib  
