@@ -17,7 +17,10 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### Em desenvolvimento
 
-- Parte 2: Funções Polinomiais – (**em breve**)  
+- Parte 2: Funções Polinomiais – (**em desenvolvimento**)
+
+### Em breve
+
 - Parte 3: Funções com Comportamento Especial – (**em breve**)  
 - Parte 4: Funções Transcendentes – (**em breve**)  
 - Parte 5: Funções Trigonométricas – (**em breve**)  
@@ -34,7 +37,6 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### 2. Funções Polinomiais
 
-- Grau 1 (Linear)
 - Grau 2 (Quadrática)
 - Grau 3 (Cúbica)
 - Grau 4

@@ -14,7 +14,7 @@ A ideia é dividir os conteúdos em tópicos conforme forem sendo estudados. Cad
 
 ### Tópicos iniciados
 
-- [`pre-calculo/`](./pre-calculo/) – Funções básicas, polinomiais, especial, trasncendentes, trogonométricas e especiais – (**em desenvolvimento**)  
+- [`pre-calculo/`](./pre-calculo/) – Funções básicas, polinomiais, trasncendentes, trogonométricas e especiais – (**em desenvolvimento**)  
 
 ### Em breve
 
