@@ -13,11 +13,11 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### Etapas concluídas
 
-- [Parte 1: Funções Básicas](./funcoes/funcoes-basicas/)
+- [Parte 1: Funções Básicas](./funcoes/basicas/)
 
 ### Em desenvolvimento
 
-- Parte 2: Funções Polinomiais – (**em desenvolvimento**)
+- [Parte 2: Funções Polinomiais](./funcoes/polinomiais/)
 
 ### Em breve
 
@@ -30,14 +30,14 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 ### 1. Funções Básicas
 
-- [Constante](./funcoes/funcoes-basicas/01-constante.ipynb)
-- [Identidade](./funcoes/funcoes-basicas/02-identidade.ipynb)
-- [Linear](./funcoes/funcoes-basicas/03-linear.ipynb)
-- [Afim](./funcoes/funcoes-basicas/04-afim.ipynb)
+- [Constante](./funcoes/basicas/01-constante.ipynb)
+- [Identidade](./funcoes/basicas/02-identidade.ipynb)
+- [Linear](./funcoes/basicas/03-linear.ipynb)
+- [Afim](./funcoes/basicas/04-afim.ipynb)
 
 ### 2. Funções Polinomiais
 
-- Grau 2 (Quadrática)
+- [Grau 2 (Quadrática)](./funcoes/polinomiais/quadratica.ipynb)
 - Grau 3 (Cúbica)
 - Grau 4
 - Grau 5
