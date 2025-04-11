@@ -38,7 +38,7 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 ### 2. Funções Polinomiais
 
 - [Grau 2 (Quadrática)](./funcoes/polinomiais/quadratica.ipynb)
-- Grau 3 (Cúbica)
+- [Grau 3 (Cúbica)](./funcoes/polinomiais/cubica.ipynb)
 - Grau 4
 - Grau 5
 
