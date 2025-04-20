@@ -14,17 +14,15 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 ### Etapas concluídas
 
 - [Parte 1: Funções Básicas](./funcoes/basicas/)
+- [Parte 2: Funções Polinomiais](./funcoes/polinomiais/)
 
 ### Em desenvolvimento
 
-- [Parte 2: Funções Polinomiais](./funcoes/polinomiais/)
+- [Parte 3: Funções Transcendentes](./funcoes/transcendentes)  
 
 ### Em breve
 
-- Parte 3: Funções com Comportamento Especial – (**em breve**)  
-- Parte 4: Funções Transcendentes – (**em breve**)  
-- Parte 5: Funções Trigonométricas – (**em breve**)  
-- Parte 6: Funções Especiais – (**em breve**)  
+- Parte 4: Funções Trigonométricas – (**em breve**)  
 
 ## Hierarquia das Funções (do básico ao avançado)
 
@@ -39,37 +37,17 @@ O objetivo deste projeto é compartilhar algumas das principais funções matem�
 
 - [Grau 2 (Quadrática)](./funcoes/polinomiais/01-quadratica.ipynb)
 - [Grau 3 (Cúbica)](./funcoes/polinomiais/02-cubica.ipynb)
-- Grau 4
-- Grau 5
 
-### 3. Funções com Comportamento Especial
+### 3. Funções Transcendentes
 
-- Modular (Valor Absoluto)
-- Raiz Quadrada
-- Racional
-- Piso (floor)
-- Parte Fracionária
-- Sinal (sign)
-
-### 4. Funções Transcendentes
-
-- Exponencial
+- [Exponencial](./funcoes/transcendentes/01-Exponencial.ipynb)
 - Logarítmica
 
-### 5. Funções Trigonométricas
+### 4. Funções Trigonométricas
 
 - Seno
 - Cosseno
 - Tangente
-
-### 6. Funções Especiais
-
-- Combinação Trigonométrica
-- Gaussiana
-- Sigmoide (Logística)
-- Seno Amortecido
-- Exponencial Complexa
-- Transformação Quadrática
 
 ## Tecnologias Utilizadas
 
